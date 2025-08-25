@@ -59,7 +59,7 @@ This project not only demonstrates my **data analysis, machine learning, and vis
 ![Contract vs Churn](images/Screenshot 2025-08-25 152015.png)  
 
 ### Feature Importance
-![Feature Importance](images/Screenshot 2025-08-25 152118.png)  
+![Feature Importance(images/Screenshot 2025-08-25 152118.png)  
 
 ---
 
