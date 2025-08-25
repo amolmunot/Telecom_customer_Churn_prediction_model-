@@ -56,7 +56,7 @@ This project not only demonstrates my **data analysis, machine learning, and vis
 ![Churn Distribution](images/image.png)  
 
 ### Churn by Contract Type
-![Contract vs Churn](images/)  
+![Contract vs Churn](images/Screenshot 2025-08-25 152015.png)  
 
 ### Feature Importance
 ![Feature Importance](images/Screenshot 2025-08-25 152118.png)  
